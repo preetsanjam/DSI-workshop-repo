@@ -1,4 +1,4 @@
-# Sm Chalambalacis Assignment 2 - UnixShell_Git_GitHub - Data Science Institute UofT Course
+# Sm Chalambalacis Assignment 2 for the UnixShell_Git_GitHub class of the Data Science Institute course @ the University of Toronto
 ## About the project
 This folder was created to store all required files to complete Part 2 of Assignment 2 for the for UnixShell, Git and GitHub class as part of the Data Science Institute course @ the University of Toronto. This included:
 - forking and cloning the [delipouya/DSI-workshop-repo](https://github.com/delipouya/DSI-workshop-repo/tree/main) GitHub repo. 
