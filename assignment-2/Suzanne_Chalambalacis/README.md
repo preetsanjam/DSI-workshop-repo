@@ -7,15 +7,15 @@ This folder was created to store all required files to complete Part 2 of Assign
 - proper folder structure (inputs, outputs, scripts) 
 - a proper README.md file
 
-## Heading How to naviagte this folder:
+## How to naviagte this folder:
 - The 'inputs' folder includes a copy assignments 1 and 2 for UnixShell, Git and GitHub class as well as a the parking_data.csv file, which is required to run assignment 1.
 - The 'outputs' folder includes the parking_data_time.csv file, which is the outcome of the running the shell script file with the csv file for assignment 1.
 - The'scripts' folder includes the 20231208_DSI_UnixShellGitGitHub_Assignt1_SmChalambalacis.sh shell script file that can be used to execute the code/commands required to complete assignment 1.
 
-## Heading Support:
+## Support:
 If you require support to run the shell script file, please contact Suzanne Chalambalacis. For anything course-related, contact the Data Science Institute course @ the University of Toronto.
 
-## Heading Contributor:
+## Contributor:
 Main contributor: Suzanne Chalambalacis, participant of the Data Science Institute course @ the University of Toronto.
 
 ## Acknowledgment and sources:
