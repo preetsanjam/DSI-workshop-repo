@@ -1,11 +1,11 @@
 # Sm Chalambalacis Assignment 2 - UnixShell_Git_GitHub - Data Science Institute UofT Course
 ## About the project
 This folder was created to store all required files to complete Part 2 of Assignment 2 for the for UnixShell, Git and GitHub class as part of the Data Science Institute course @ the University of Toronto. This included:
-- a) forking and cloning the delipouya/DSI-workshop-repo GitHub repo. 
-- b) pushing Assignment 1 to the folder labelled 'assignment-2' with my full name
-- c) all components necessary to run Assignment 1, including the .csv and .sh file
-- d) proper folder structure (inputs, outputs, scripts) 
-- e) a proper README.md file
+- forking and cloning the delipouya/DSI-workshop-repo GitHub repo. 
+- pushing Assignment 1 to the folder labelled 'assignment-2' with my full name
+- all components necessary to run Assignment 1, including the .csv and .sh file
+- proper folder structure (inputs, outputs, scripts) 
+- a proper README.md file
 
 ## Heading How to naviagte this folder:
 - The 'inputs' folder includes a copy assignments 1 and 2 for UnixShell, Git and GitHub class as well as a the parking_data.csv file, which is required to run assignment 1.
@@ -22,5 +22,5 @@ Main contributor: Suzanne Chalambalacis, participant of the Data Science Institu
 Instructor Delaram for the Unix, Git, and GitHub class as part of the Data Science Institute course @ the University of Toronto.
 
 ## This README.md file follows examples from:
-- https://github.com/ma-shamshiri/Human-Activity-Recognition#readme
-- https://github.com/hackergrrl/art-of-readme
+- [https://github.com/ma-shamshiri/Human-Activity-Recognition#readme] (https://github.com/ma-shamshiri/Human-Activity-Recognition#readme)
+- [https://github.com/hackergrrl/art-of-readme] (https://github.com/hackergrrl/art-of-readme)
